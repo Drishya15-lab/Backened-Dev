@@ -1,0 +1,4 @@
+This is a sample file.
+It contains some text data.
+We are using it to test the backup utility.
+Every backup will have a timestamp in its filename.
